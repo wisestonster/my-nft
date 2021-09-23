@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "greatcat"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "black"
+      }
+    ],
+    "description": "The world's most adorable and sensitive cat.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS7QZNKAdp7rWSkkBAHbot3cjvxMovTrZgeQUzG3g6BJd",
+    "name": "Nyang"
+  }
+  
